@@ -1,0 +1,2 @@
+ethzasl_icp_mapping/ethzasl_extrinsic_calibration:ethzasl_icp_mapping/ethzasl_gridmap_2d:ethzasl_icp_mapping/ethzasl_icp_mapper:ethzasl_icp_mapping/ethzasl_icp_mapper_experiments:ethzasl_icp_mapping/ethzasl_icp_mapping:ethzasl_icp_mapping/ethzasl_point_cloud_vtk_tools:ethzasl_icp_mapping/libpointmatcher_ros:select_pcd
+-DCATKIN_DEVEL_PREFIX=/home/rudy-001/Relocalisation/devel -DCMAKE_INSTALL_PREFIX=/home/rudy-001/Relocalisation/install -G Unix Makefiles
