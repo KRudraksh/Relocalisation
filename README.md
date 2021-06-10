@@ -1,13 +1,13 @@
 # Relocalisation
 
 #### To clone Relocalisation, use:
-<copy-button>git clone https://github.com/KRudraksh/Relocalisation.git</copy-button>
-# 
+'git clone https://github.com/KRudraksh/Relocalisation.git'
+
 #### Locate the "read.pcd" and "kitti2.pcd" in 'src/select_pcd/data'
-<copy-button>Copy their path and modify it in 'select_pcd/src/pcl_publish.cpp'</copy-button>
-# 
+'Copy their path and modify it in 'select_pcd/src/pcl_publish.cpp'
+
 #### Perform cmake, using (preferablly):
-<copy-button>catkin_make -j5</copy-button>
-# 
+'catkin_make -j5'
+
 #### Launch the package, using:
-<copy-button>roslauncg select_pcd run.launch</copy-button>
+'roslauncg select_pcd run.launch'
