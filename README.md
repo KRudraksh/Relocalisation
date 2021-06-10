@@ -10,4 +10,4 @@
 `catkin_make -j5`
 
 #### Launch the package, using:
-`roslauncg select_pcd run.launch`
+`roslaunch select_pcd run.launch`
